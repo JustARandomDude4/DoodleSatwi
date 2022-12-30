@@ -19,6 +19,6 @@ You can draw with others connected to the application and see these results on t
 * The number of users connected is tracked and updated in the top right-corner of the screen by making use of PubNub's Presence detection.
 
 
-[Check out here](https://justarandomdude4.github.io/doodle.github.io/) 
+[Check out here](https://justarandomdude4.github.io/DoodleSatwi/) 
 
 
